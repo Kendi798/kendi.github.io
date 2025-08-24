@@ -683,7 +683,7 @@ form #button:hover{
   width: 50px;
   height: 70px;
   margin: 0 auto;
-  animation: move-rocket 2s ease infinite;
+  animation: move-teddy 2s ease infinite;
 }
 
 .smoke-container {
@@ -847,6 +847,7 @@ form #button:hover{
 	}
 
 }
+
 
 
 
