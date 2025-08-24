@@ -26,12 +26,13 @@ $(document).ready(function() {
 });
 
 
-const rocket = document.querySelector('.scroll-top');
+const teddy = document.querySelector('.scroll-top');
 
-rocket.addEventListener('click', () => {
+teddy.addEventListener('click', () => {
   $('html, body').animate({
     scrollTop: 0
   }, 500);
 });
+
 
 
