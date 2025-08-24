@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
 :root{
 	--yellow:#01FFF4;
@@ -646,17 +647,17 @@ form #button:hover{
   bottom: 150px;
 }
 
-.scroll-top.active .rocket::before {
+.scroll-top.active .teddy::before {
   height: 80px;
 }
 
-.scroll-top.active .rocket::after {
+.scroll-top.active .teddy::after {
   height: 150px;
   filter: blur(10px);
 }
 
-.rocket::before,
-.rocket::after {
+.teddy::before,
+.teddy::after {
   content: '';
   position: absolute;
   top: 60%;
@@ -668,16 +669,16 @@ form #button:hover{
   transition: all 0.5s ease-in-out;
 }
 
-.scroll-top.active .rocket::before {
+.scroll-top.active .teddy::before {
   height: 80px;
 }
 
-.scroll-top.active .rocket::after {
+.scroll-top.active .teddy::after {
   height: 150px;
   filter: blur(10px);
 }
 
-.rocket {
+.teddy {
   position: relative;
   width: 50px;
   height: 70px;
@@ -846,6 +847,7 @@ form #button:hover{
 	}
 
 }
+
 
 
 
